@@ -12,6 +12,8 @@
     </div>
 </section>
 
+/comment 
+
 <!-- Full Menu -->
 <section class="py-32 px-10 bg-[#F9F7F2]">
     <div class="max-w-7xl mx-auto space-y-32">
